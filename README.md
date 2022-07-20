@@ -2,14 +2,14 @@
 
 ## Curriculum ideas
 
-Test Driven Development - Overview, Pros & Cons <br>
+1. Test Driven Development - Overview, Pros & Cons <br>
 
-Svelte introduction (how to use "any" js-Framework) <br>
+2. Svelte introduction (how to use "any" js-Framework) <br>
 
-Use Svelte with TDD <br>
+3. Use Svelte with TDD <br>
 
-CI-Pipeline via github actions <br>
+4. CI-Pipeline via github actions <br>
 
-What is Deno? <br>
+5. What is Deno? <br>
 
-How to use erc20 as a Backend
+6. How to use erc20 as a Backend
