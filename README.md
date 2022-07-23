@@ -21,7 +21,7 @@ Ist sicher (inkl. Datenschutz, need to know prinzip etc.)
 Zeigt hohe Codequalität (Separation of Concerns, High Cohesion, Loose Coupling, automatisierte Tests) und damit eine leichte Wartbarkeit
 
 ## Vorlesungsgestaltung
-Die erste Stunde jeder Vorlesung nutzen für die Erkundung wertvoller Kenntnisse und Fähigkeiten in der großen Runde. Hierbei geht es um theoretische Grundlagen, sowie um den gegenseitigen gruppenübergreifenden Austausch zu Herausforderungen und Lösungen. 
+Die erste Stunde jeder Vorlesung nutzen für die Erkundung wertvoller Kenntnisse und Fähigkeiten in der großen Runde. Hierbei geht es um theoretische Grundlagen, sowie um gegenseitige, gruppenübergreifende Unterstützung bei Herausforderungen und Lösungen. 
 
 Danach arbeiten wir in Gruppen (3-6 Personen) an den einzelnen Projekten.
 
