@@ -16,7 +16,7 @@ Im diesem (5.) Semester fokussieren wir uns auf Cross-Platform Ansätze. Im näc
 
 ## Bewertungskriterien
 Funktioniert  
-Bietet gute User Experience
+Bietet gute User Experience  
 Ist sicher (inkl. Datenschutz, need to know prinzip etc.)  
 Zeigt hohe Codequalität (Separation of Concerns, High Cohesion, Loose Coupling, automatisierte Tests) und damit eine leichte Wartbarkeit
 
