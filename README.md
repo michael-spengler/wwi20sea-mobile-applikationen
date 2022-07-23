@@ -25,6 +25,11 @@ Die erste Stunde jeder Vorlesung nutzen für die Erkundung wertvoller Kenntnisse
 
 Danach arbeiten wir in Gruppen (3-6 Personen) an den einzelnen Projekten.
 
+## Technologien
+Die folgenden Technologien stehen in diesem Semester im Fokus:  
+[Deno](https://deno.land)  
+[Svelte](https://svelte.dev)  
+[flutter](https://flutter.dev)  
 
 ## App Stores
 [progressivewebapp.store](https://progressivewebapp.store/)  
