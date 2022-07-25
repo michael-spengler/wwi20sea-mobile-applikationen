@@ -11,9 +11,7 @@ Im nächsten (6.) Semester beleuchten wir native (proprietäre) Ansätze und erk
 
 ## Prüfungsleistungen
 1. Gruppen- oder Einzel Referate  
-2. Erstellung einer Chat Applikation
-3. Erstellung einer Event Finder Applikation
-4. Erstellung einer NFT Austausch Applikation
+2. Erstellung einer Mobile First Web Applikation (Chat, Event Finder oder NFT Platform)
 
 ## Bewertungskriterien
 1. Funktioniert   
