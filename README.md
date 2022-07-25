@@ -17,7 +17,7 @@ Im nächsten (6.) Semester beleuchten wir native (proprietäre) Ansätze und erk
 1. Funktioniert   
 2. Bietet gute User Experience   
 3. Ist sicher (inkl. Datenschutz, need to know prinzip etc. / Möglichst resistent gegenüber (D)DOS Attacks etc.)    
-4. Zeigt hohe Codequalität (Separation of Concerns, High Cohesion, Loose Coupling, automatisierte Tests) und damit eine leichte Wartbarkeit  
+4. Zeigt hohe Codequalität (Separation of Concerns, High Cohesion, Loose Coupling, automatisierte Tests --> leichte Wartbarkeit...)   
 5. Continuous Integration / Continuous Deployment ist sauber automatisiert   
 6. Die Lernerfahrungen der einzelnen Gruppen wurden sauber dokumentiert (z.B. in einer learnings.md Datei)   
 7. Die Technologieentscheidungen der einzelnen Gruppen wurden sauber dokumentiert (z.B. in einer technology-decisions.md Datei)   
