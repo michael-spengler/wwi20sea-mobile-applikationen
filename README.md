@@ -1,9 +1,10 @@
 # Software Engineering Mobile Applications
 
 ## Lernziele
-Nachdem in der Vorlesungsreihe [Webprogrammierung](https://github.com/michael-spengler/wwi20sea-web-programmierung) Grundlagen - im Hinblick auf Frontendentwicklung, Backendentwicklung, CICD - erkundet wurden, nutzen wir diese Vorlesungsreihe, um tiefer in die effiziente und skalierende Nutzung von tools & frameworks einzutauchen. 
+Nachdem in der Vorlesungsreihe [Webprogrammierung](https://github.com/michael-spengler/wwi20sea-web-programmierung) Grundlagen - im Hinblick auf Frontendentwicklung, Backendentwicklung und CICD - erkundet wurden, nutzen wir diese Vorlesungsreihe, um tiefer in die effiziente und skalierende Nutzung von Plattformen & Frameworks einzutauchen. 
 
-Im diesem (5.) Semester fokussieren wir uns auf Cross-Platform Ansätze. Im nächsten (6.) Semester erkunden wir auf native (proprietäre) Ansätze und beleuchten in welchen Kontexten diese möglicherweise weiterhin von Bedeutung sind.
+Im diesem (5.) Semester fokussieren wir uns auf non-proprietäre Cross-Platform Ansätze.   
+Im nächsten (6.) Semester beleuchten wir native (proprietäre) Ansätze und erkunden in welchen Kontexten diese möglicherweise weiterhin von Bedeutung sind.
 
 [Cross-Platform vs. Native App Development](https://www.youtube.com/watch?v=Mq_HS-o-v6o)   
 
@@ -15,10 +16,13 @@ Im diesem (5.) Semester fokussieren wir uns auf Cross-Platform Ansätze. Im näc
 4. Erstellung einer NFT Austausch Applikation
 
 ## Bewertungskriterien
-Funktioniert  
-Bietet gute User Experience  
-Ist sicher (inkl. Datenschutz, need to know prinzip etc.)  
-Zeigt hohe Codequalität (Separation of Concerns, High Cohesion, Loose Coupling, automatisierte Tests) und damit eine leichte Wartbarkeit
+1. Funktioniert   
+2. Bietet gute User Experience   
+3. Ist sicher (inkl. Datenschutz, need to know prinzip etc. / Möglichst resistent gegenüber (D)DOS Attacks etc.)    
+4. Zeigt hohe Codequalität (Separation of Concerns, High Cohesion, Loose Coupling, automatisierte Tests) und damit eine leichte Wartbarkeit  
+5. Continuous Integration / Continuous Deployment ist sauber automatisiert   
+6. Die Lernerfahrungen der einzelnen Gruppen wurden sauber dokumentiert (z.B. in einer learnings.md Datei)   
+7. Die Technologieentscheidungen der einzelnen Gruppen wurden sauber dokumentiert (z.B. in einer technology-decisions.md Datei)   
 
 ## Vorlesungsgestaltung
 Die erste Stunde jeder Vorlesung nutzen für die Erkundung wertvoller Kenntnisse und Fähigkeiten in der großen Runde. Hierbei geht es um theoretische Grundlagen, sowie um gegenseitige, gruppenübergreifende Unterstützung bei Herausforderungen und Lösungen. 
@@ -35,7 +39,6 @@ Die folgenden Technologien stehen in diesem Semester im Fokus:
 [progressivewebapp.store](https://progressivewebapp.store/)  
 [Android Playstore](https://play.google.com/store)  
 [IOS Appstore](https://www.apple.com/app-store/)
-
 
 
 ## Curriculum ideas
