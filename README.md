@@ -10,10 +10,10 @@ Im nächsten (6.) Semester beleuchten wir native (proprietäre) Ansätze und erk
 
 
 ## Prüfungsleistungen
-1. Gruppen- oder Einzel Referate  
-2. Erstellung einer Mobile First Web Applikation (Chat, Event Finder oder NFT Platform)
+1. Gruppen- oder Einzel Referate   
+2. Erstellung einer Mobile First Web Applikation (Chat, Event Finder oder NFT Platform) 
 
-## Bewertungskriterien
+## Bewertungskriterien zur Mobile First Web Applikation
 1. Funktioniert   
 2. Bietet gute User Experience   
 3. Ist sicher (inkl. Datenschutz, need to know prinzip etc. / Möglichst resistent gegenüber (D)DOS Attacks etc.)    
