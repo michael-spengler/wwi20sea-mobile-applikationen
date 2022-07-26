@@ -1,4 +1,4 @@
-# Software Engineering Mobile Applications
+# Software Engineering Mobile Applikationen - Plattformen & Frameworks
 
 ## Prüfungsleistungen
 1. Gruppen- oder Einzel Referate   
@@ -10,7 +10,7 @@ Nachdem in der Vorlesungsreihe [Webprogrammierung](https://github.com/michael-sp
 Im diesem (5.) Semester fokussieren wir uns auf non-proprietäre Cross-Platform Ansätze.   
 Im nächsten (6.) Semester beleuchten wir native (proprietäre) Ansätze und erkunden in welchen Kontexten diese möglicherweise weiterhin von Bedeutung sind - [Cross-Platform vs. Native App Development](https://www.youtube.com/watch?v=Mq_HS-o-v6o).  
 
-### Technologien
+#### Technologien
 Die folgenden Technologien stehen in diesem Semester im Fokus:  
 [Deno](https://deno.land)  
 [Svelte](https://svelte.dev)  
@@ -18,7 +18,7 @@ Die folgenden Technologien stehen in diesem Semester im Fokus:
 [GitHub Actions for CI/CD](https://github.com/features/actions)   
 Optional: Falls ihr eine Distributed (Mobile) App (DAPP) erstellen möchtet: [Ethereum as Platform / Backend](https://ethereum.org/en/)  
 
-### Vorgehensmodelle
+#### Vorgehensmodelle
 Nachdem jede Gruppe ein Value Proposition Canvas und eine User Story Map für ihre zu bauende Mobile First Web App angefertigt hat, nutzen wir [Test Driven Development](http://xunitpatterns.com/Philosophy%20Of%20Test%20Automation.html) mit dem Outside-In Ansatz als Vorgehensmodell.  
 
 Hierbei erkunden wir wie die Notwendigkeit zu einem passenden [Umgang mit Dependencies](http://xunitpatterns.com/Test%20Double.html) zu einer hohen Code Qualität im Hinblich auf Separation of Concerns, High Cohesion, Loose Coupling... beiträgt. 
