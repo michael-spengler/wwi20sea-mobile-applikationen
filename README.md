@@ -21,7 +21,7 @@ Optional: Falls ihr eine Distributed (Mobile) App (DAPP) erstellen möchtet: [Et
 #### Vorgehensmodelle
 Nachdem jede Gruppe ein Value Proposition Canvas und eine User Story Map für ihre zu bauende Mobile First Web App angefertigt hat, nutzen wir [Test Driven Development](http://xunitpatterns.com/Philosophy%20Of%20Test%20Automation.html) mit dem Outside-In Ansatz als Vorgehensmodell.  
 
-Hierbei erkunden wir wie die Notwendigkeit zu einem passenden [Umgang mit Dependencies](http://xunitpatterns.com/Test%20Double.html) zu einer hohen Code Qualität im Hinblich auf Separation of Concerns, High Cohesion, Loose Coupling... beiträgt. 
+Hierbei erkunden wir wie die Notwendigkeit für einen passenden [Umgang mit Dependencies](http://xunitpatterns.com/Test%20Double.html) zu einer hohen Code Qualität im Hinblich auf Separation of Concerns, High Cohesion, Loose Coupling... beiträgt. 
 
 
 ## Bewertungskriterien zur Mobile First Web Applikation
