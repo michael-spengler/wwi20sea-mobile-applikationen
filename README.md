@@ -16,7 +16,7 @@ Die folgenden Technologien stehen in diesem Semester im Fokus:
 [Svelte](https://svelte.dev)  
 [flutter](https://flutter.dev)   
 [GitHub Actions for CI/CD](https://github.com/features/actions)   
-Optional: If you want to develop a Mobile Distributed App (DAPP) [Ethereum as Platform / Backend](https://ethereum.org/en/)
+Optional: Falls ihr eine Distributed (Mobile) App (DAPP) erstellen möchtet: [Ethereum as Platform / Backend](https://ethereum.org/en/)  
 
 ### Vorgehensmodelle
 Nachdem jede Gruppe ein Value Proposition Canvas und eine User Story Map für ihre zu bauende Mobile First Web App angefertigt hat, nutzen wir [Test Driven Development](http://xunitpatterns.com/Philosophy%20Of%20Test%20Automation.html) mit dem Outside-In Ansatz als Vorgehensmodell.  
