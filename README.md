@@ -1,4 +1,4 @@
-# Software Engineering Mobile Applikationen - Plattformen & Frameworks
+# Mobile Applikationen - Plattformen & Frameworks
 
 ## Prüfungsleistungen
 1. Gruppen- oder Einzel Referate   
