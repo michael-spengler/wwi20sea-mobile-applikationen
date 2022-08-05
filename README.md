@@ -1,4 +1,5 @@
 # Mobile Applikationen - Plattformen & Frameworks
+W3WI_SE432.1 / Technologische Aspekte in der Entwicklung mobiler Applikationen
 
 ## Prüfungsleistungen
 1. Gruppen- oder Einzel Referate   
@@ -25,7 +26,7 @@ Hierbei erkunden wir wie die Notwendigkeit für einen passenden [Umgang mit Depe
 
 
 ## Bewertungskriterien zur Mobile First Web Applikation
-1. Ein repräsentatives Value Proposition Canvas wurde angefertigt   
+1. Ein repräsentatives [Value Proposition Canvas](https://www.youtube.com/watch?v=ReM1uqmVfP0&t=3s) wurde angefertigt   
 2. Die User Stories sind klar dokumentiert   
 3. Die App funktioniert performant und fehlerfrei    
 4. Die App bietet eine gute User Experience (mit wenigen "clicks" ... zum gewünschten Ergebnis...)       
