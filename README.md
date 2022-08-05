@@ -1,5 +1,5 @@
-# Mobile Applikationen - Plattformen & Frameworks
-W3WI_SE432.1 / Technologische Aspekte in der Entwicklung mobiler Applikationen
+# Technologische Aspekte in der Entwicklung mobiler Applikationen
+W3WI_SE432.1  
 
 ## Prüfungsleistungen
 1. Gruppen- oder Einzel Referate   
