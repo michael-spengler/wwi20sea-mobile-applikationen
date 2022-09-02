@@ -29,7 +29,7 @@ https://cdn.skypack.dev nutzen. Falls dies nicht funktioniert (weil der code der
 
 
 #### Vorgehensmodelle
-Nachdem jede Gruppe ein Value Proposition Canvas und eine User Story Map für ihre zu bauende Mobile First Web App angefertigt hat, nutzen wir [Test Driven Development](http://xunitpatterns.com/Philosophy%20Of%20Test%20Automation.html) mit dem Outside-In Ansatz als Vorgehensmodell.  
+Nachdem jede Gruppe ein [Value Proposition Canvas](https://www.youtube.com/watch?v=ReM1uqmVfP0) und eine User Story Map für ihre zu bauende Mobile First Web App angefertigt hat, nutzen wir [Test Driven Development](http://xunitpatterns.com/Philosophy%20Of%20Test%20Automation.html) mit dem [Outside-In](http://xunitpatterns.com/Philosophy%20Of%20Test%20Automation.html) Ansatz als Vorgehensmodell.  
 
 Hierbei erkunden wir wie die Notwendigkeit für einen passenden [Umgang mit Dependencies](http://xunitpatterns.com/Test%20Double.html) zu einer hohen Code Qualität im Hinblich auf Separation of Concerns, High Cohesion, Loose Coupling... beiträgt. 
 
