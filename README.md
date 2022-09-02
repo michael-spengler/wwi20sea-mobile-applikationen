@@ -20,12 +20,16 @@ Die folgenden Technologien stehen in diesem Semester im Fokus:
 Optional: Falls ihr eine Distributed (Mobile) App (DAPP) erstellen möchtet: [Ethereum als Platform / Backend](https://ethereum.org/en/)  
 
 ##### Abwägungen / Trade-Offs
-Deno vs. NodeJS als Backend Laufzeitumgebung / RTE
+**Deno vs. NodeJS als Backend Laufzeitumgebung / RTE**
 
 Mögliche Challenge bei Nutzung von Deno: Finden wir stets passende libraries / module? 
 Falls es ein Modul in https://deno.land/x noch nicht gibt, eine passende library allerdings via npmjs.com bereit stünde, können wir grundsätzlich 
 https://cdn.skypack.dev nutzen. Falls dies nicht funktioniert (weil der code der library oder einer ihrer dependencies noch nicht deno ready ist), empfehle ich, dass wir entweder die library deno ready machen (selbst ein deno modul dazu veröffentlichen - gerne auch feedback zu [diesen beispielen](https://github.com/michael-spengler/deno-modules-monitoring) geben).
 
+
+**Backend Optionen**
+1. deno (weil state of the art wenn es um zentrale backends geht)
+2. polygon (weil günstig in sachen transaction fees wenn es um dezentrale backends geht + polygon = ethereum kompatible plattform) 
 
 
 #### Vorgehensmodelle
