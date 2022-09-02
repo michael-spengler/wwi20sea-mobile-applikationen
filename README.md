@@ -19,6 +19,15 @@ Die folgenden Technologien stehen in diesem Semester im Fokus:
 [GitHub Actions for CI/CD](https://github.com/features/actions)   
 Optional: Falls ihr eine Distributed (Mobile) App (DAPP) erstellen möchtet: [Ethereum als Platform / Backend](https://ethereum.org/en/)  
 
+##### Abwägungen / Trade-Offs
+Deno vs. NodeJS als Backend Laufzeitumgebung / RTE
+
+Mögliche Challenge bei Nutzung von Deno: Finden wir stets passende libraries / module? 
+Falls es ein Modul in https://deno.land/x noch nicht gibt, eine passende library allerdings via npmjs.com bereit stünde, können wir grundsätzlich 
+https://cdn.skypack.dev nutzen. Falls dies nicht funktioniert (weil der code der library oder einer ihrer dependencies noch nicht deno ready ist), empfehle ich, dass wir entweder die library deno ready machen (selbst ein deno modul dazu veröffentlichen - gerne auch feedback zu [diesen beispielen](https://github.com/michael-spengler/deno-modules-monitoring) geben).
+
+
+
 #### Vorgehensmodelle
 Nachdem jede Gruppe ein Value Proposition Canvas und eine User Story Map für ihre zu bauende Mobile First Web App angefertigt hat, nutzen wir [Test Driven Development](http://xunitpatterns.com/Philosophy%20Of%20Test%20Automation.html) mit dem Outside-In Ansatz als Vorgehensmodell.  
 
