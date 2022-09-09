@@ -13,11 +13,11 @@ Im nächsten (6.) Semester beleuchten wir native (proprietäre) Ansätze und erk
 
 #### Technologien
 Die folgenden Technologien stehen in diesem Semester im Fokus:  
-[Deno](https://deno.land)  
-[Svelte](https://svelte.dev)  
+[Deno](https://deno.land)   
+[Svelte](https://svelte.dev) using [snel](https://deno.land/x/snel) in order to reuse deno modules like [svelte_map](https://deno.land/x/svelte_map)    
 [flutter](https://flutter.dev)   
-[GitHub Actions for CI/CD](https://github.com/features/actions)   
-Optional: Falls ihr eine Distributed (Mobile) App (DAPP) erstellen möchtet: [Ethereum als Platform / Backend](https://ethereum.org/en/)  
+[GitHub Actions for CI/CD](https://github.com/features/actions)    
+Optional: Falls ihr eine Distributed (Mobile) App (DAPP) erstellen möchtet: [Ethereum als Platform / Backend](https://ethereum.org/en/)   
 
 ##### Abwägungen / Trade-Offs
 **Deno vs. NodeJS als Backend Laufzeitumgebung / RTE**
