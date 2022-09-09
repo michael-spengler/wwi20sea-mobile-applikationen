@@ -15,9 +15,9 @@ Im nächsten (6.) Semester beleuchten wir native (proprietäre) Ansätze und erk
 Die folgenden Technologien stehen in diesem Semester im Fokus:  
 [Deno](https://deno.land)   
 [Svelte](https://svelte.dev) using [snel](https://deno.land/x/snel) in order to reuse deno modules like [svelte_map](https://deno.land/x/svelte_map)    
-[flutter](https://flutter.dev)   
-[GitHub Actions for CI/CD](https://github.com/features/actions)    
-Optional: Falls ihr eine Distributed (Mobile) App (DAPP) erstellen möchtet: [Ethereum als Platform / Backend](https://ethereum.org/en/)   
+[flutter](https://flutter.dev)    
+[GitHub Actions for CI/CD](https://github.com/features/actions)     
+Ethereum oder Polygon als Platform / Backend --> Solidity  
 
 ##### Abwägungen / Trade-Offs
 **Deno vs. NodeJS als Backend Laufzeitumgebung / RTE**
@@ -44,7 +44,7 @@ Hierbei erkunden wir wie die Notwendigkeit für einen passenden [Umgang mit Depe
 3. Die App funktioniert performant und fehlerfrei    
 4. Die App bietet eine gute User Experience (mit wenigen "clicks" ... zum gewünschten Ergebnis...)       
 5. Die App ist sicher (Datenschutz, need to know prinzip etc. / Möglichst resistent gegenüber (D)DOS Attacks etc.)     
-6. Hohe Codequalität (Separation of Concerns, High Cohesion, Loose Coupling, automatisierte Tests --> leichte Wartbarkeit...)    
+6. Hohe Codequalität (Separation of Concerns, High Cohesion, Loose Coupling, [automatisierte Tests](https://medium.com/remix-ide/solidity-unit-testing-using-remix-tests-part-1-bc10ab1be864) --> leichte Wartbarkeit...)    
 7. Continuous Integration / Continuous Deployment ist sauber automatisiert (z.B. via GitHub Actions)      
 8. Die Lernerfahrungen der einzelnen Gruppen wurden sauber dokumentiert (z.B. in einer learnings.md Datei)    
 9. Die Technologieentscheidungen der einzelnen Gruppen wurden sauber dokumentiert (z.B. in einer technology-decisions.md Datei)     
