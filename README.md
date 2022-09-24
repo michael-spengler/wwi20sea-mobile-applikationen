@@ -15,7 +15,7 @@ Im nächsten (6.) Semester beleuchten wir native (proprietäre) Ansätze und erk
 Die folgenden Technologien stehen in diesem Semester im Fokus:  
 [Deno](https://deno.land)    
 [Svelte](https://svelte.dev) using [snel](https://deno.land/x/snel) in order to reuse deno modules like [svelte_map](https://deno.land/x/svelte_map) - [see also latest changes...](https://www.youtube.com/watch?v=LMTfzyVJIXs)    
-[flutter](https://flutter.dev)    
+[flutter](https://flutter.dev) - [see also](https://github.com/Solido/awesome-flutter#videos)    
 [GitHub Actions for CI/CD](https://github.com/features/actions)     
 Ethereum oder Polygon als Platform / Backend --> Solidity  
 
