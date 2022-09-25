@@ -12,12 +12,24 @@ Im diesem (5.) Semester fokussieren wir uns auf non-proprietäre Cross-Platform 
 Im nächsten (6.) Semester beleuchten wir native (proprietäre) Ansätze und erkunden in welchen Kontexten diese möglicherweise weiterhin von Bedeutung sind - [Cross-Platform vs. Native App Development](https://www.youtube.com/watch?v=Mq_HS-o-v6o).  
 
 #### Technologien
-Die folgenden Technologien stehen in diesem Semester im Fokus:  
-[Deno](https://deno.land)    
-[Svelte](https://svelte.dev) using [snel](https://deno.land/x/snel) in order to reuse deno modules like [svelte_map](https://deno.land/x/svelte_map) - [see also latest changes...](https://www.youtube.com/watch?v=LMTfzyVJIXs)    
+Die folgenden Technologien stehen in diesem Semester im Fokus
+##### Deno
+[Deno](https://deno.land) is the successor of nodejs imo. It is mainly created by Ryan Dahl who also provided nodejs.      
+
+##### Svelte
+[Svelte](https://svelte.dev) ist m.E. der Nachfolger von angular, vue & react. Performance and Einfachheit...     
+[Latest updates...](https://www.youtube.com/watch?v=LMTfzyVJIXs), [UI libraries](https://www.youtube.com/watch?v=RkD88ARvucM), [snel](https://deno.land/x/snel) (falls ihr z.B. [svelte_map](https://deno.land/x/svelte_map) ... nutzen möchtet)  
+
+##### Flutter
 [flutter](https://flutter.dev) - [see also](https://github.com/Solido/awesome-flutter#videos)    
+
+##### GitHub Actions
 [GitHub Actions for CI/CD](https://github.com/features/actions)     
-Ethereum oder Polygon als Platform / Backend --> Solidity  
+
+##### Distributed Backends 
+[Ethereum](https://etherscan.io) oder [Polygon](https://polygonscan.com) als Platform / Backend --> Solidity als Programmiersprache   
+[ipfs.io](https://ipfs.io) as potential decentralized file server service.
+
 
 ##### Abwägungen / Trade-Offs
 **Deno vs. NodeJS als Backend Laufzeitumgebung / RTE**
