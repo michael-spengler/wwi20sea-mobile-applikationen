@@ -2,8 +2,7 @@
 W3WI_SE432.1  
 
 ## Prüfungsleistungen
-1. Gruppen- oder Einzel Referate   
-2. Erstellung einer Mobile First Web Applikation (Chat, Event Finder, Tweet Platform oder NFT Platform) 
+Erstellung einer Mobile First Web Applikation (details siehe [issues tab](https://github.com/michael-spengler/wwi20sea-mobile-applikationen/issues)). Die [Bewertungskriterien](https://github.com/michael-spengler/wwi20sea-mobile-applikationen#bewertungskriterien-zur-mobile-first-web-applikation) sollen dazu beitragen, dass die Applikation von dauerhaftem Nutzen ist. Bei der Aneignung der theoretischen Hintergründe können die [Fancy Flashcards](https://github.com/fancy-flashcard/ffc) helfen. Die Leistungen werden einzeln (keine Gruppennote) bewertet. 
 
 ## Lernziele
 Nachdem in der Vorlesungsreihe [Webprogrammierung](https://github.com/michael-spengler/wwi20sea-web-programmierung) Grundlagen - im Hinblick auf Frontendentwicklung, Backendentwicklung und CICD - erkundet wurden, nutzen wir diese Vorlesungsreihe, um tiefer in die effiziente und skalierende Nutzung von Plattformen, Frameworks und Vorgehensmodellen einzutauchen. 
@@ -11,27 +10,27 @@ Nachdem in der Vorlesungsreihe [Webprogrammierung](https://github.com/michael-sp
 Im diesem (5.) Semester fokussieren wir uns auf non-proprietäre Cross-Platform Ansätze.   
 Im nächsten (6.) Semester beleuchten wir native (proprietäre) Ansätze und erkunden in welchen Kontexten diese möglicherweise weiterhin von Bedeutung sind - [Cross-Platform vs. Native App Development](https://www.youtube.com/watch?v=Mq_HS-o-v6o).  
 
-#### Technologien
+### Technologien
 Die folgenden Technologien stehen in diesem Semester im Fokus
-##### Deno
+#### Deno
 [Deno](https://deno.land) is the successor of nodejs imo. It is mainly created by Ryan Dahl who also provided nodejs.      
 
-##### Svelte
+#### Svelte
 [Svelte](https://svelte.dev) ist m.E. der Nachfolger von angular, vue & react. Performance and Einfachheit...     
 [Latest updates...](https://www.youtube.com/watch?v=LMTfzyVJIXs), [UI libraries](https://www.youtube.com/watch?v=RkD88ARvucM), [snel](https://deno.land/x/snel) (falls ihr z.B. [svelte_map](https://deno.land/x/svelte_map) ... nutzen möchtet)  
 
-##### Flutter
+#### Flutter
 [flutter](https://flutter.dev) - [see also](https://github.com/Solido/awesome-flutter#videos)    
 
-##### GitHub Actions
+#### GitHub Actions
 [GitHub Actions for CI/CD](https://github.com/features/actions)     
 
-##### Distributed Backends 
+#### Distributed Backends 
 [Ethereum](https://etherscan.io) oder [Polygon](https://polygonscan.com) als Platform / Backend --> Solidity als Programmiersprache   
 [ipfs.io](https://ipfs.io) as potential decentralized file server service.
 
 
-##### Abwägungen / Trade-Offs
+### Abwägungen / Trade-Offs
 **Deno vs. NodeJS als Backend Laufzeitumgebung / RTE**
 
 Mögliche Challenge bei Nutzung von Deno: Finden wir stets passende libraries / module? 
@@ -44,7 +43,7 @@ https://cdn.skypack.dev nutzen. Falls dies nicht funktioniert (weil der code der
 2. polygon (weil günstig in sachen transaction fees wenn es um dezentrale backends geht + polygon = ethereum kompatible plattform) 
 
 
-#### Vorgehensmodelle
+### Vorgehensmodelle
 Nachdem jede Gruppe ein [Value Proposition Canvas](https://www.youtube.com/watch?v=ReM1uqmVfP0) und eine User Story Map für ihre zu bauende Mobile First Web App angefertigt hat, nutzen wir [Test Driven Development](http://xunitpatterns.com/Philosophy%20Of%20Test%20Automation.html) mit dem [Outside-In](http://xunitpatterns.com/Philosophy%20Of%20Test%20Automation.html) Ansatz als Vorgehensmodell.  
 
 Hierbei erkunden wir wie die Notwendigkeit für einen passenden [Umgang mit Dependencies](http://xunitpatterns.com/Test%20Double.html) zu einer hohen Code Qualität im Hinblich auf Separation of Concerns, High Cohesion, Loose Coupling... beiträgt. 
